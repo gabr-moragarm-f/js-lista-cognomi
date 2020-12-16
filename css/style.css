@@ -13,4 +13,20 @@
 .wrapper>*{
   width: 50%;
   border: 1px solid #000;
+  text-transform: capitalize;
+  padding: 50px;
+}
+
+.wrapper ol{
+  font-size: 30px;
+}
+
+.wrapper div{
+  font-size: 100px;
+  text-align: center;
+}
+
+#posizione-lista{
+  font-size: 150px;
+  height: 160px;
 }
